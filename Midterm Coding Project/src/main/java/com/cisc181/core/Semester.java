@@ -4,13 +4,10 @@ import java.sql.Date;
 import java.util.UUID;
 
 public class Semester {
-	
+
 	public UUID SemesterID;
 	public Date StartDate;
 	public Date EndDate;
-	public Semester(UUID randomUUID, java.util.Date studDate, java.util.Date studDate2) {
-		// TODO Auto-generated constructor stub
-	}
 	public UUID getSemesterID() {
 		return SemesterID;
 	}

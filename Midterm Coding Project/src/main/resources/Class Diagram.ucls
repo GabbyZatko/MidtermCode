@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="com.cisc181.core.Section" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/core/Section.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="306" y="90"/>    
+    <position height="-1" width="-1" x="293" y="92"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
